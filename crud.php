@@ -1,6 +1,5 @@
 <?php 
 
-require_once('conexao.php');
 class crud {
 
     public function inserirDados($nome, $sobrenome, $email, $senha, $telefone){
